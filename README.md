@@ -4,5 +4,6 @@ Projeto sobre **Git/GitHub**
 
 ## Links úteis:
 [:arrow_right: Sintaxe básica markdown](https://www.markdownguide.org/)  
-[:arrow_right: Badges para GitHub](https://dev.to/envoy_/150-badges-for-github-pnk)  
-[:arrow_right: Emojis :grin:](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#arrow)
+[:arrow_right: 10 top comandos Git](https://blog.betrybe.com/tecnologia/comandos-git/)  
+[:arrow_right: Badges para GitHub](https://dev.to/envoy_/150-badges-for-github-pnk)    
+[:arrow_right: Emojis :grin:](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#arrow)  
